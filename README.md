@@ -1,11 +1,32 @@
-# exemploRepoo
-exemplo de vide github
 
+ 
+## Sobre o projeto
 
-Isto é um exemplo de repositório para fins de estudo e prática com o GitHub. Aqui você encontrará exemplos de código, documentação e instruções para contribuir com o projeto.
+Este projeto foi criado para aprender a utilizar o GitHub e praticar programação.
 
-Edson
+## Participantes
 
-Edson 2
+- Edson
+- Edson 2
+- Luquinhas
 
-luquinhas
+## Objetivos
+
+- Aprender a programar
+- Aprender a utilizar o Git
+- Guardar e partilhar projetos
+- Trabalhar em equipa
+
+## Atualizações
+
+Este repositório será atualizado com novas experiências e aprendizagens.
+
+### Versão 1.0
+
+- Criação do repositório
+- Adição das primeiras informações
+- Continuação do projeto
+
+## Fim
+
+Obrigado por visitar o nosso repositório!
